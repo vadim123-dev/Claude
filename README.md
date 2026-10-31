@@ -16,6 +16,7 @@ place changes the same files.
 | film | `image-ref-gen` | FILM-SKILLS.zip |
 | video | `ai-video-analyzer` | https://github.com/guyaga/10d10s-day02-video-analyzer |
 | video | `ai-video-editor` | https://github.com/guyaga/10d10s-day03-video-editor |
+| video | `grok-video` | Written here — Grok Imagine prompts with Hebrew nikud + pronunciation |
 
 ### Add a new skill
 
